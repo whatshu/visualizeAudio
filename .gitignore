@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# test data
+/test-audio/
+*.wav
+*.aif
+
+# make file
+/cmake-build-debug/
+
+# idea
+/.idea
